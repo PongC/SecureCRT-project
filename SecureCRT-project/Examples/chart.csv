@@ -1,0 +1,27 @@
+eth0,Link encap:Ethernet  HWaddr 08
+,    inet addr:10.0.2.4  Bcast:10.0
+,    inet6 addr: fe80::a00:27ff:fec
+,    UP BROADCAST RUNNING MULTICAST
+,    RX packets:120 errors:0 droppe
+,    TX packets:155 errors:0 droppe
+,    collisions:0 txqueuelen:1000  
+,    RX bytes:22374 (21.8 KiB)  TX 
+,
+eth1,Link encap:Ethernet  HWaddr 08
+,    inet addr:192.168.2.2  Bcast:1
+,    inet6 addr: fe80::a00:27ff:fe5
+,    UP BROADCAST RUNNING MULTICAST
+,    RX packets:0 errors:0 dropped:
+,    TX packets:13 errors:0 dropped
+,    collisions:0 txqueuelen:1000  
+,    RX bytes:0 (0.0 b)  TX bytes:9
+,
+lo,  Link encap:Local Loopback     
+,    inet addr:127.0.0.1  Mask:255.
+,    inet6 addr: ::1/128 Scope:Host
+,    UP LOOPBACK RUNNING  MTU:65536
+,    RX packets:0 errors:0 dropped:
+,    TX packets:0 errors:0 dropped:
+,    collisions:0 txqueuelen:0     
+,    RX bytes:0 (0.0 b)  TX bytes:0
+,

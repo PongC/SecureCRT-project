@@ -1,0 +1,5 @@
+dis ver
+dis inter
+dis isis peer
+dis bgp vpnv4 al pe
+dis ip ro st

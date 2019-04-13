@@ -1,0 +1,5 @@
+dis ver;key=version information:,PCB
+dis inter;key=ospf,bgp
+dis isis peer;key=ospf,bgp
+dis bgp vpnv4 al pe;key=ospf,bgp
+dis ip ro st;key=ospf,bgp
